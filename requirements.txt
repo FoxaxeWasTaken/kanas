@@ -1,0 +1,1 @@
+Pillow  # optionnel : affiche les kana en grand dans le terminal
